@@ -1,0 +1,102 @@
+html {
+    background: yellow;
+    background-image: linear-gradient(285, rgb(255, 255, 255)%, rgb(216, 221, 221) 100%);
+    -webkit-font-smooth: subpixel-antialiased;
+    background-color: navy;
+    margin: 0;
+    height: 100;
+    width: auto;
+
+
+}
+
+
+
+
+
+hr {
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 12px;
+    background: black;
+    margin-bottom: 55px;
+
+
+}
+
+
+body {
+    background: gold;
+    box-shadow: 0 0 3.5rgba(0, 0, 0, 0.10) color: green;
+    font-family: "Cambria Math,  Arial, sans-serif";
+    font-size: 15.5;
+    line-height: 1.75;
+    margin: 0 auto;
+    max-width: 800px;
+    max-height: none;
+    padding: 2em 2em 4em;
+
+
+}
+
+
+h1,
+h2,
+h3 {
+    color: red font-weight: 500 line-height: 1.55
+}
+
+h2 {
+    margin-top: 1.55
+}
+
+
+
+
+img {
+    background-image: "Jerusalem.png";
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+ .uppernav {
+            overflow: hidden;
+           background-color: darkblue;
+            
+        }
+    
+    .uppernav a  {
+            float: left;
+            color: gold;
+            text-align: center;
+            padding: 15.5px 17.5px;
+            text-decoration: none;
+            font-size: 19px;
+            
+        }
+        
+      .uppernav a:hover  {
+            background-color: black;
+            color: white;
+            
+        }
+        
+        .uppernav a.active{
+            background-color: black;
+            color: white;
+            
+        }
+        
+
+
+
